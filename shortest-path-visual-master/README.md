@@ -1,6 +1,6 @@
 ## Dijkstra's Animation
 Welcome to Dijkstra's Animation for finding shortest path between two points. You can move start node or finish node on grid. You can also create wall/obstacles between them to make finding shortest path hard. Just click and drag to do these.
-You can checkout website here [Dijkstra's Animation](https://shortestpath-hitesh.netlify.com/).
+You can checkout website here [Dijkstra's Animation](https://code-knighttt.netlify.app/).
 
 ## Available Scripts
 
